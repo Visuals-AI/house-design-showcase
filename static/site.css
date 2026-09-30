@@ -11,3 +11,10 @@
 
 .whole-house-tour{margin:40px 0}.video-frame{position:relative;aspect-ratio:16/9;width:100%;overflow:hidden;border:1px solid var(--line);border-radius:12px;background:#151716}.video-frame iframe{display:block;width:100%;height:100%;border:0}.video-link{margin:10px 0 0;font-size:14px}
 @media print{.video-frame{display:none}}
+@media screen and (max-width:720px){
+  .equipment-table{min-width:960px;font-size:13px}
+  .equipment-table .equipment-notes{min-width:260px;width:260px;white-space:normal;overflow-wrap:break-word;line-height:1.7}
+  .equipment-table .equipment-specs{min-width:260px;width:260px}
+  .equipment-table th:first-child,.equipment-table td:first-child{min-width:140px}
+  .table-scroll{overscroll-behavior-x:contain}
+}
