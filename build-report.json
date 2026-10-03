@@ -1,11 +1,11 @@
 {
   "rooms": 12,
-  "images": 283,
+  "images": 239,
   "categories": {
     "photo": 31,
     "render": 33,
     "ai": 33,
-    "effect": 44,
+    "effect": 0,
     "reference": 0,
     "product": 0
   },
