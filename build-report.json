@@ -1,10 +1,10 @@
 {
   "rooms": 12,
-  "images": 199,
+  "images": 198,
   "categories": {
     "photo": 31,
-    "render": 10,
-    "ai": 31,
+    "render": 8,
+    "ai": 33,
     "effect": 0,
     "reference": 0,
     "product": 0
