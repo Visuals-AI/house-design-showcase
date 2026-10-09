@@ -1,6 +1,6 @@
 {
   "rooms": 12,
-  "images": 198,
+  "images": 199,
   "categories": {
     "photo": 31,
     "render": 8,
@@ -34,7 +34,6 @@
     "40_render/requirements/07_studio/README.md: 未发布链接 ../../../50_devices/07%20%E7%94%B7%E4%B8%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%B7%A5%E4%BD%9C%E5%8F%B0/",
     "40_render/requirements/07_studio/README.md: 未发布链接 ../../../50_devices/07%20%E7%94%B7%E4%B8%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4/Super%E7%94%B5%E7%AB%9E%E6%A1%8C",
     "40_render/requirements/08_primary_bedroom/README.md: 未发布链接 ../../../50_devices/08%20%E4%B8%BB%E5%8D%A7/%E5%B9%B3%E7%A7%BB%E5%82%A8%E7%89%A9%E5%BA%8A",
-    "40_render/requirements/08_primary_bedroom/README.md: 未发布链接 ../../../50_devices/08%20%E4%B8%BB%E5%8D%A7/%E6%A0%B7%E6%9D%BF%E9%97%B4%E8%A1%A3%E6%9F%9C",
     "40_render/requirements/09_secondary_bedroom/README.md: 未发布链接 ../../../50_devices/08%20%E4%B8%BB%E5%8D%A7/%E5%B9%B3%E7%A7%BB%E5%82%A8%E7%89%A9%E5%BA%8A",
     "40_render/requirements/09_secondary_bedroom/README.md: 未发布链接 ../../../50_devices/09%20%E6%AC%A1%E5%8D%A7/%E6%99%BA%E8%83%BD%E5%BA%8A%E5%A4%B4%E6%9F%9C",
     "40_render/requirements/09_secondary_bedroom/README.md: 未发布链接 ../../../50_devices/09%20%E6%AC%A1%E5%8D%A7/%E7%94%B5%E8%A7%86",
